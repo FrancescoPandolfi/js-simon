@@ -46,7 +46,7 @@ setTimeout(function() {
     i++;
 
   }
-}, 300);
+}, 30000);
 
 
 
